@@ -1,0 +1,13 @@
+{
+  "total_rows": 945,
+  "ios_rows": 453,
+  "android_rows": 492,
+  "app_type_counts": {
+    "companion": 659,
+    "mixed": 238,
+    "general_purpose": 25,
+    "other": 23
+  },
+  "web_accessible_true": 21,
+  "age_verification_required_true": 543
+}
